@@ -518,7 +518,6 @@ img.six {
 html body{
     height: 100%;
     width: 100%;
-    overflow-x: hidden;
 }
 
 .text1top4 {font-size: 16px;padding-left: 100px;padding-top: 130px;}
