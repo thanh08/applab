@@ -8,6 +8,7 @@
     perspective: 450px;
     width: 332px;
     height: 608px;
+    z-index: 4;
 }
 
 .phone img {
@@ -695,13 +696,7 @@ img.top2-hinhanh {
 background: #2500f9;
 color: white;
 }
-.row.top1-1 {
-    position: absolute;
-    z-index: 4;
-}
-.container.top1{
-    position: relative;
-}
+
 
 
 .demovideo {
@@ -719,14 +714,6 @@ color: white;
 background: #2500f9;
 color: white;
 }
-.row.top1-1 {
-    position: absolute;
-    z-index: 4;
-}
-.container.top1{
-    position: relative;
-}
-
 
 .textbest2 {
     display: flex;
