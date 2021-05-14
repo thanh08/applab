@@ -516,7 +516,7 @@ img.six {
 }
 html body{
     height: 100%;
-    width: 100%;
+    /* width: 100%; */
     overflow-x: hidden;
 }
 
@@ -825,6 +825,10 @@ ul.navbar-nav.text-md-right {
         margin: 0px;
         padding: 0px;
     }
+
+.phone {
+    width: auto;
+}
 
 .text4top13 {
     font-size: 11px;
