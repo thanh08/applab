@@ -51,7 +51,7 @@ $(function () {
     var nuttrai = document.querySelector('i.trai');
     nuttrai.addEventListener('click',clicknuttrai);
     var trangthaiclick = 'stop'
-    var thucthi = setInterval(autosline,5000);
+    var thucthi = setInterval(autosline,3000);
 
     function clicknutphai () { 
       if(trangthaiclick == 'run'){return false;}
